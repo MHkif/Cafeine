@@ -1,4 +1,4 @@
-# Nom du projet : E-Cafeteria
+# Cafeine
 
 Ce projet consiste en un site web e-commerce WordPress qui permet la vente de produits de café en ligne.
 Technologies utilisées
